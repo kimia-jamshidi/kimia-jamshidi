@@ -42,25 +42,6 @@ Currently, I'm pursuing my Bachelor's degree in ***Information Technology***, wh
 - Jupyter Notebook
 - VS Code
 
-## 📌 Featured Projects
-
-### 📩 SMS Spam Detection
-
-A Machine Learning project for classifying SMS messages as ***Spam or Ham*** using Natural Language Processing and text classification techniques.
-
-***Technologies:*** Python, NLP, Scikit-learn, Logistic Regression
-
-### 🛒 E-commerce Customer Analysis
-
-A data analysis project focused on exploring customer behavior, sales patterns, and extracting business insights from an e-commerce dataset.
-
-***Technologies:*** Python, Pandas, NumPy, Data Analysis
-
-### 🧠 AI Dataset Doctor
-
-An AI/Data Science project focused on analyzing and working with datasets.
-
-«This project is currently private and is not publicly available yet.»
 
 ## 🌱 Currently Learning
 
